@@ -1,2 +1,10 @@
 # Main-challenges-of-federated-learning
-Federated learning has introduced a new distributed setting to machine learning over remote devices. In the early versions of this algorithm, a global server takes the lead in processing data on different local clients. The initial algorithm does not.
+****main chalenges of federated learning  Goroup 4**__**
+group members: Abdollah Foroutan /Ivan Contreras / Fatemeh Ahmadvand
+
+
+**Completed table:** Project6__Understanding_the_main_challenges_of_Federated_Learning.pdf
+
+**Report:** Project6_Group4_Report.pdf
+
+
